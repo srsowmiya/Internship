@@ -1,0 +1,10 @@
+div{
+    height: 100px;
+    width: 100px;
+}
+.rojo { background-color: red; }
+.azul { background-color: blue; }
+.verde { background-color: green; }
+.amarillo { background-color: yellow; color: black; }
+.negro { background-color: black; }
+.blanco { background-color: white; color: black; border: 1px solid #ccc; }
